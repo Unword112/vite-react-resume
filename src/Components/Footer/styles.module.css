@@ -1,0 +1,16 @@
+.footer_container {
+  width: 100% - 200px;
+  margin-bottom: 10vh;
+  margin-left: 200px;
+  max-height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: var(--font-sans);
+}
+
+.text {
+  font-size: var(--fx-md);
+  color: var(--light-slate);
+  font-weight: 500;
+}

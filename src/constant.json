@@ -1,0 +1,54 @@
+{
+  "experiences": [
+    {
+      "key": 0,
+      "company": "MCTC",
+      "link": "/",
+      "title": "Teacher ",
+      "duration": "Jan 2020 - Aug 2023",
+      "desc": [
+        "Developed and maintained an innovative computer science curriculum that prepares students for careers in technology and fosters creativity and problem-solving skills.",
+        "Provided hands-on learning opportunities for students through the use of real-world examples and projects.",
+        "Collaborated with local businesses and organizations to create opportunities for students to work on real-world projects, gaining practical experience and developing valuable industry connections.",
+        "Collaborated with industry professionals and local businesses to organize guest lectures and workshops for students, exposing them to current trends and practical applications of computer science in the real world.",
+        "Collaborated with industry professionals to organize coding competitions and hackathons for students to showcase their skills and network with potential employers in the technology field.",
+        "Evaluated each student’s progress and provided feedback to help them improve their skills and knowledge in computer science."
+      ]
+    },
+    {
+      "key": 1,
+      "company": "New World RV",
+      "link": "/",
+      "title": "COO ",
+      "duration": "Aug 2013 - Dec 2019",
+      "desc": [
+        "Managed all IT aspects of a big-ticket ecommerce website, POS, QuickBooks Enterprise Accounting System, Employee Time Clock System, and Internet Marketing at New World RV, a Recreation Vehicle Dealership.",
+        "Oversee the implementation of new technology solutions to improve efficiency and streamline oper ations.",
+        "Developed and implemented a comprehensive IT strategy to optimize operations and enhance the customer experience at New World RV, resulting in increased sales and customer satisfaction.",
+        "Collaborate with the CEO to develop and execute strategic initiatives to drive business growth and increase market share.",
+        "Implemented a data analytics system to analyze customer data and make data-driven decisions for strategic planning and business growth at New World RV.",
+        "Develop and implement a talent acquisition strategy to attract and retain top talent in the RV industry, ensuring a highly skilled and motivated workforce at New World RV.",
+        "Establish and maintain relationships with key vendors, suppliers, and partners to ensure the availability of high-quality products and services at competitive prices for New World RV.",
+        "Develop and implement a comprehensive risk management plan to identify and mitigate potential operational, financial, and regulatory risks at New World RV.",
+        "Implement a customer feedback system to gather and analyze feedback from RV customers, allowing New World RV to continuously improve their products and services.",
+        "Develop and execute a strategic marketing plan to increase brand visibility and customer engagement in the RV industry for New World RV.",
+        "Develop and implement a customer relationship management (CRM) system to effectively manage customer interactions and improve customer satisfaction at New World RV."
+      ]
+    },
+    {
+      "key": 2,
+      "company": "Eocene Systems",
+      "link": "/",
+      "title": "CTO ",
+      "duration": "Feb 2008 - Aug 2013",
+      "desc": [
+        "Develop and implement a strategic technology plan to support Eocene Systems' growth and expansion goals.",
+        "Collaborate with cross-functional teams to develop and implement innovative technologies that improve patient monitoring and healthcare outcomes.",
+        "Identify and assess emerging technologies and trends in the healthcare industry to provide innovative solutions for Eocene Systems' product development.",
+        "Lead the research and development of new technologies and solutions to enhance Eocene Systems' product offerings and competitive advantage.",
+        "Manage and oversee all technical aspects of Eocene Systems' IT infrastructure and operations, including network management, security, and data protection, to ensure the reliability and efficiency of the company's technology systems.",
+        "Develop and manage a team of highly skilled developers to support the development and maintenance of Eocene Systems' technology systems."
+      ]
+    }
+  ]
+}
