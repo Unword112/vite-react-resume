@@ -24,7 +24,7 @@ function ContactBar() {
     <div className={styles.contact_bar_wrapper}>
       <div className={styles.contact_bar}>
         <a
-          href="https://www.linkedin.com/in/nathakith-baosalee-7959752ba"
+          href="https://www.linkedin.com/in/nathakith-baosalee"
           target="_blank"
           className={styles.icon}
         >

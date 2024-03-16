@@ -10,11 +10,10 @@ function Footer() {
       <h1 className={styles.text}>Contact Me</h1>
 
       <a
-        href="https://www.linkedin.com/in/nathakith-baosalee-7959752ba"
+        href="https://www.linkedin.com/in/nathakith-baosalee"
         className={styles.icon}
       >
-        <LinkedInIcon />{" "}
-        <span>www.linkedin.com/in/nathakith-baosalee-7959752ba</span>
+        <LinkedInIcon /> <span>www.linkedin.com/in/nathakith-baosalee</span>
       </a>
       <a
         href="https://www.github.com/Unword112"
